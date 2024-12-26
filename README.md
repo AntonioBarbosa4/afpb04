@@ -34,14 +34,14 @@
   <a href="https://github.com/afpb04/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpb04&layout=compact&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioBarbosa4&layout=compact&theme=dracula"
     />
   </a>
   <a href="https://github.com/afpb04/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=afpb04&show_icons=true&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=AntonioBarbosa4&show_icons=true&theme=dracula"
     />
   </a>
 </p>
